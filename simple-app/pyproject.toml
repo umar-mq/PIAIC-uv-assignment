@@ -1,7 +1,9 @@
 [project]
 name = "simple-app"
 version = "0.1.0"
-description = "Add your description here"
+description = "A simple calculator application"
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "rich>=14.1.0",
+]
