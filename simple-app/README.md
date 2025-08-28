@@ -49,7 +49,7 @@ uv run main.py div 15 3
 
 ## Screenshot
 
-![Calculator Screenshot](../assets/screenshot.png)
+![Calculator Screenshot](../assets/screenshot1.png)
 
 ---
 
