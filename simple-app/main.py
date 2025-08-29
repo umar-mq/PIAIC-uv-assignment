@@ -2,6 +2,7 @@ import argparse
 from rich.console import Console
 
 console = Console()
+console.print('[u]uv-assignment[/u] - [i]PIAIC258257[/i]')
 
 def calculate(a: float, b: float, operation: str) -> float:
     if operation == "add":
