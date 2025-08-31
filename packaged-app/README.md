@@ -6,6 +6,12 @@ Built as part of the **uv-assignment** project.
 
 ---
 
+## Screenshot
+
+![Wordplay Screenshot](../assets/screenshot.png)
+
+---
+
 ## Installation
 
 1. Clone this repository:
@@ -60,12 +66,6 @@ print(clean_text("Hello, World!"))
 print(shuffle_word("example"))
 # Output: 'pxmaele'
 ```
-
----
-
-## Screenshot
-
-![Wordplay Screenshot](../assets/screenshot.png)
 
 ---
 

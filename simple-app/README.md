@@ -6,6 +6,12 @@ Built as part of the **uv-assignment** project.
 
 ---
 
+## Screenshot
+
+![Calculator Screenshot](../assets/screenshot1.png)
+
+---
+
 ## Installation
 
 1. Clone this repository:
@@ -44,12 +50,6 @@ uv run main.py mul 6 7
 uv run main.py div 15 3
 # Output: 15 / 3 = 5.0
 ```
-
----
-
-## Screenshot
-
-![Calculator Screenshot](../assets/screenshot1.png)
 
 ---
 
